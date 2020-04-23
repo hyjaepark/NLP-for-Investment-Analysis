@@ -34,7 +34,7 @@ We evaluated our model by ...
 * if you want to run the model, please run the command.:
 > `pip install -r requirements.txt`
 > 
-> `python run_main.py --model 'model_name'
+> `python run_main.py --model 'model_name' --bert_version 'bert-base-nli-mean-tokens'
 
 * model_name can be {BERT, tf-idf, doc2vec}
 
