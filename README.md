@@ -8,16 +8,33 @@ The data has been obtained from the government site data.gov. We have used four
 separate methods for document representation, and we are in the process of determining which method is best for our purposes.
 
 ## Results
+We evaluated our model by ... 
 
+| |BERT  | TF-IDF | Doc2vec |
+|--- |------------- | ------------- | --- |
+| Benchmark  | 0.0812312 | 0.0912312 | 12312 |
+| Score  | 0.11123  | 0.10123123 | 123123 |
 
 ## Directory Structure
-The data folder has...
-The plot folder has...
-The code folder has...
 
+    .
+    ├── data                   
+        ├── monthly                                                                 # monthly return data
+        ├── original                                                                # text data
+        ├── CRSP Mutual Funds - Total Lookup - 2019.csv                             # lookup table
+        ├── CRSP Mutual Funds - Holdings 2019-01 to 2019-12 with names, ids.csv     # stock holdings table
+        ├── CRSP Mutual Funds - Fund Summary 2010-01 to 2019-12.csv                 # fund class table
+    ├── plots                                                                       # visualizations 
+    ├── results                                                                     # models Results
+    ├── run_main.py
+    └── README.md
+    
 ## Run the model by yourself
 
 * if you want to run the model, please run the command.:
 > `pip install -r requirements.txt`
 > 
-> `python run_main.py
+> `python run_main.py -model 'model_name'
+
+* model_name can be {BERT, tf-idf, doc2vec}
+
