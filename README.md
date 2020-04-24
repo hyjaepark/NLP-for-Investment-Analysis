@@ -11,8 +11,8 @@ Unfortunately, our directory of data is too large for GitHub so it must be retri
 ## Results
 We evaluated our model by ... 
 
-| |BERT  | TF-IDF | Doc2vec |
-|--- |------------- | ------------- | --- |
+| |BERT  | TF-IDF | Doc2vec |bert nli mean-tokens | bert-nli-stsb mean-tokens | bert-nli max-tokens | bert-nli-mean-tokens|using risk corpus|
+|--- |------------- | ------------- | --- | --- |--- |--- |--- |--- |
 | Benchmark  | 0.0812312 | 0.0912312 | 0.0875 |
 | Score  | 0.11123  | 0.10123123 | 0.09333333 |
 
