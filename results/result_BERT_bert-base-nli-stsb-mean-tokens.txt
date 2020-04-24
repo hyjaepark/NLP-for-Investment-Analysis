@@ -1,0 +1,6 @@
+BERT
+bert-base-nli-stsb-mean-tokens
+Clustering Score
+0.1267
+Benchmark
+0.0916

@@ -1,0 +1,5 @@
+tf-idf
+Clustering Score
+0.1062
+Benchmark
+0.0862

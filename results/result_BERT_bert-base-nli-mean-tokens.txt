@@ -1,0 +1,6 @@
+BERT
+bert-base-nli-mean-tokens
+Clustering Score
+0.1147
+Benchmark
+0.0805

@@ -1,0 +1,6 @@
+BERT
+bert-base-nli-max-tokens
+Clustering Score
+0.1122
+Benchmark
+0.0898
