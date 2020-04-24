@@ -5,7 +5,7 @@ This purpose of this project is to map the various investment styles of all the 
 The data has been obtained from the government site data.gov. 
 
 ## Results
-The following is the model results
+The following is the model results. Description of numbers are explained in report.pdf
 
 | |TF-IDF | Doc2vec |bert nli mean-tokens | bert-nli-stsb mean-tokens | bert-nli max-tokens | bert-nli-mean-token using risk corpus|
 |--- |------------- | ------------- | --- | --- |--- | ---|
@@ -15,7 +15,7 @@ The following is the model results
 ## Directory Structure
 
     .
-    ├── data  The following data can be accessed                   
+    ├── data  The following data can be accessed through Google Drive. Ask through hpark@gatech.edu                  
         ├── monthly                                                                 # monthly return data
         ├── original                                                                # text data
         ├── CRSP Mutual Funds - Total Lookup - 2019.csv                             # lookup table
@@ -26,6 +26,7 @@ The following is the model results
         ├── lipper                                                                  # Classification code per cluster 
         ├── common_stocks                                                           # Common stocks per cluster
     ├── results                                                                     # model results as txt
+    ├── report.pdf
     ├── run_main.py
     └── README.md
     
