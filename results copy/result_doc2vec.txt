@@ -1,6 +1,0 @@
-doc2vec
-bert-base-nli-stsb-mean-tokens
-Clustering Score
-0.0933
-Benchmark
-0.0875
