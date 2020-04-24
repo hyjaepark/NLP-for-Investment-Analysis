@@ -13,8 +13,8 @@ We evaluated our model by ...
 
 | |BERT  | TF-IDF | Doc2vec |bert nli mean-tokens | bert-nli-stsb mean-tokens | bert-nli max-tokens | bert-nli-mean-tokens|using risk corpus|
 |--- |------------- | ------------- | --- | --- |--- |--- |--- |--- |
-| Benchmark  | 0.0812312 | 0.0912312 | 0.0875 |
-| Score  | 0.11123  | 0.10123123 | 0.09333333 |
+| Benchmark  | 0.0862 | 0.0875| 0.0805 |0.0916| 0.0898 |0.0938|
+| Score  | 0.1062 | 0.0933 |0.1147 |0.1267 |0.1122 |0.106|
 
 ## Directory Structure
 
