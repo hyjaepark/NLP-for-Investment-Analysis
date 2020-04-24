@@ -6,7 +6,7 @@ This purpose of this project is to map the various investment styles of all the 
 
 The data has been obtained from the government site data.gov. We have used four
 separate methods for document representation, and we are in the process of determining which method is best for our purposes.
-Unfortunately, our directory of data is too large for GitHub so it must be retrieved from: TODO (ADD GOOGLE DRIVE LINK)
+Unfortunately, our directory of data is too large for GitHub so it must be retrieved from: https://drive.google.com/drive/folders/1x23cEMkev1SxZ50LUlBzD-u0F8e3bbs8?usp=sharing
 
 ## Results
 We evaluated our model by ... 
