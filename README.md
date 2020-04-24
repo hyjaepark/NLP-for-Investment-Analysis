@@ -12,8 +12,8 @@ We evaluated our model by ...
 
 | |BERT  | TF-IDF | Doc2vec |
 |--- |------------- | ------------- | --- |
-| Benchmark  | 0.0812312 | 0.0912312 | 12312 |
-| Score  | 0.11123  | 0.10123123 | 123123 |
+| Benchmark  | 0.0812312 | 0.0912312 | 0.0875 |
+| Score  | 0.11123  | 0.10123123 | 0.09333333 |
 
 ## Directory Structure
 
