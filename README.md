@@ -2,7 +2,7 @@
 ## Spring 2020 Final Project: 
 #### Daeil Cha, Hyun Jae Park, Yotam Ghebre
 
-This purpose of this project is to map the various investment styles of all the mutual funds registered with the U.S. Securities and Exchange Commission. Specifically, our approach is to represent each fund’s prospectus document as an embedding, and to measure the similarity between these embeddings. 
+The purpose of this project is to map the various investment styles of all the mutual funds registered with the U.S. Securities and Exchange Commission. Specifically, our approach is to represent each fund’s prospectus document as an embedding, and to measure the similarity between these embeddings. 
 
 The data has been obtained from the government site data.gov. 
 
